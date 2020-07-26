@@ -2,7 +2,7 @@
 # Project Title: Week 2
 ## Project Description: This is a part of task 3
 ## Install Instructions: git clone
-# Run Instructions: Run in IDE of choice
+## Run Instructions: Run in IDE of choice
 
 Weeks  | Content
 ------------- | -------------
